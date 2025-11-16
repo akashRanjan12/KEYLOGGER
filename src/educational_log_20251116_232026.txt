@@ -1,0 +1,31 @@
+=== EDUCATIONAL KEYLOGGER DEMO ===
+Created for learning purposes only
+Start time: Sun Nov 16 23:20:26 2025
+
+===================================
+
+
+
+[Window: main.cpp - keylogger - Visual Studio Code - Sun Nov 16 23:20:29 2025
+]
+dgfds[ENTER]
+gdsg[ENTER]
+dsglkfjgldisj oifj dsi hgiu dsif hds[TAB]`[CAPSLOCK]1qa[LWIN]zxct5fr bhy7ujn89m0,[-;p'=[ENTER]
+][BACKSPACE]\[LEFT][HOME][NUMLOCK][UP]+[PGDN][ENTER]
+[DELETE][INSERT][NUMLOCK][NUMLOCK][UP][PGUP][HOME][RIGHT][LEFT][LEFT][NUMLOCK][NUMLOCK]866545465465452100[ENTER]
+[ENTER]
+[ENTER]
+[ENTER]
+==========[CAPSLOCK]
+
+[Window: tempCodeRunnerFile.CPP - KEYLOGGER PROJ - Visual Studio Code - Sun Nov 16 23:21:15 2025
+]
+xzc
+
+[Window: main.cpp - keylogger - Visual Studio Code - Sun Nov 16 23:21:32 2025
+]
+[TAB][TAB][TAB][TAB]
+
+[Window: Snipping Tool Overlay - Sun Nov 16 23:22:03 2025
+]
+0

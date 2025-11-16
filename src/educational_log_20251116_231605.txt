@@ -1,0 +1,22 @@
+=== EDUCATIONAL KEYLOGGER DEMO ===
+Created for learning purposes only
+Start time: Sun Nov 16 23:16:05 2025
+
+===================================
+
+
+
+[Window: main.cpp - keylogger - Visual Studio Code - Sun Nov 16 23:16:06 2025
+]
+fdfdf   [ENTER]
+[TAB][TAB][RIGHT][RIGHT][UP][LEFT][DOWN][ENTER]
+     
+
+[Window: Keylogger App with Web Interface - DeepSeek - Brave - Sun Nov 16 23:17:39 2025
+]
+i want to [BACKSPACE][BACKSPACE][BACKSPACE]tp[BACKSPACE]o createae [BACKSPACE][BACKSPACE][BACKSPACE] a link and send on my secon devo[BACKSPACE]ive [BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]ice and track the key[ENTER]
+  
+
+[Window: keylogger.cpp - keylogger - Visual Studio Code - Sun Nov 16 23:19:40 2025
+]
+       [UP][DOWN][LEFT]0

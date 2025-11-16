@@ -1,0 +1,54 @@
+=== EDUCATIONAL KEYLOGGER DEMO ===
+Created for learning purposes only
+Start time: Sun Nov 16 23:23:41 2025
+
+===================================
+
+
+
+[Window: main.cpp - keylogger - Visual Studio Code - Sun Nov 16 23:23:44 2025
+]
+FDF[ENTER]
+[CAPSLOCK][CAPSLOCK][TAB][LWIN]
+
+[Window: Search - Sun Nov 16 23:23:57 2025
+]
+[LWIN]
+
+[Window: main.cpp - keylogger - Visual Studio Code - Sun Nov 16 23:24:02 2025
+]
+[ENTER]
+[UP][LEFT][RIGHT][DOWN][NUMLOCK][NUMLOCK][NUMLOCK][NUMLOCK];[BACKSPACE][ENTER]
+GGGG==000000000090[][];;;;;
+
+[Window: Keylogger App with Web Interface - DeepSeek - Brave - Sun Nov 16 23:25:31 2025
+]
+[LWIN]
+
+[Window: Search - Sun Nov 16 23:25:32 2025
+]
+NOTD[ENTER]
+
+
+[Window: Untitled - Notepad - Sun Nov 16 23:25:39 2025
+]
+V
+
+[Window: Keylogger App with Web Interface - DeepSeek - Brave - Sun Nov 16 23:25:46 2025
+]
+ON THE AVOVE CODE [LEFT][LEFT][LEFT][LEFT][LEFT][LEFT][LEFT][LEFT][LEFT][BACKSPACE]B[RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT][RIGHT]YO [BACKSPACE]U CANNOT GIVE THE FEATURE PF [BACKSPACE][BACKSPACE][BACKSPACE]OF SHIFT BUTTON ADD T[BACKSPACE]IT[ENTER]
+
+
+[Window: keylogger.cpp - keylogger - Visual Studio Code - Sun Nov 16 23:27:32 2025
+]
+AC
+
+[Window: Keylogger App with Web Interface - DeepSeek - Brave - Sun Nov 16 23:27:43 2025
+]
+[ENTER]
+[UP]V[ENTER]
+
+
+[Window: keylogger.cpp - keylogger - Visual Studio Code - Sun Nov 16 23:29:41 2025
+]
+AVAS[BACKSPACE][BACKSPACE]SS

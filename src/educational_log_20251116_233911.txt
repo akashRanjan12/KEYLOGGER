@@ -1,0 +1,23 @@
+=== EDUCATIONAL KEYLOGGER DEMO ===
+Created for learning purposes only
+Start time: Sun Nov 16 23:39:11 2025
+
+===================================
+
+
+
+[Window: main.cpp - keylogger - Visual Studio Code - Sun Nov 16 23:39:14 2025
+]
+fkjdslkjf dfjdslkj fo kf;lk ds;f k;ds kf;l[ENTER]
+f[ENTER]
+dsf[ENTER]
+[ENTER]
+[ENTER]
+fd[ENTER]
+sf[ENTER]
+dsf[ENTER]
+ds[ENTER]
+f[ENTER]
+ds[ENTER]
+f[ENTER]
+[CAPSLOCK]kl[CAPSLOCK]jkh[CAPSLOCK]kjh[TAB]lk[TAB]jkjhfsdkjshfkjkjkljljjj[CAPSLOCK]jjjjjjjjj[CAPSLOCK]jjjjj
