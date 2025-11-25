@@ -4,8 +4,8 @@
 #include "security.h"
 
 int main() {
-    std::cout << "=== Educational Keylogger Demo ===" << std::endl;
-    std::cout << "This is for EDUCATIONAL PURPOSES ONLY" << std::endl;
+    std::cout << "=== Keylogger ===" << std::endl;
+    std::cout << "Tracking keys " << std::endl;
     
     // Get user consent
     std::cout << "Do you consent to this keylogger monitoring your keyboard? (yes/no): ";
@@ -20,7 +20,7 @@ int main() {
     EducationalKeylogger logger;
     
     try {
-        std::cout << "Starting educational keylogger (Press ESC to stop)..." << std::endl;
+        std::cout << "Starting keylogger (Press ESC to stop)..." << std::endl;
         logger.startMonitoring();
     } catch (const std::exception& e) {
         std::cerr << "Error: " << e.what() << std::endl;

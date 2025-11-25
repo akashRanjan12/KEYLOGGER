@@ -73,8 +73,8 @@ void EducationalKeylogger::setupLogFile() {
     }
     
     // Write header with disclaimer
-    logFile << "=== EDUCATIONAL KEYLOGGER DEMO ===\n";
-    logFile << "Created for learning purposes only\n";
+    logFile << "=== KEYLOGGER ===\n";
+    logFile << "Created for tracking keys\n";
     logFile << "Start time: " << std::ctime(&time_t) << "\n";
     logFile << "===================================\n\n";
 }

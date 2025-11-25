@@ -13,7 +13,6 @@ private:
     std::string logFilename;
     static EducationalKeylogger* instance;
     
-    // Key mapping for better readability
     std::map<int, std::string> keyMap;
     
     void initializeKeyMap();
